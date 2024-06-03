@@ -143,8 +143,57 @@ body::before {
 .gap {
     margin-left: 20px;
 }
-.pp{
+
+.pp {
     margin-top: 30px;
     margin-left: 40px;
     font-size: 1.8rem;
+}
+
+.edit-btn {
+    padding: 6px 23px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'robo';
+    background-color: seagreen;
+    color: #fff;
+    letter-spacing: 0.2em;
+    border-radius: 5px;
+    border: none;
+}
+
+.delete-btn {
+    border: none;
+    margin-left: 12px;
+    padding: 6px 23px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'robo';
+    background-color: seagreen;
+    color: #fff;
+    letter-spacing: 0.2em;
+    border-radius: 5px;
+    font-family: 'robo';
+
+    cursor: pointer;
+    padding: 6px 23px;
+    font-size: 16px;
+    border-radius: 5px
+}
+.save-btn{
+    margin-left: 12px;
+    padding: 6px 23px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'robo';
+    background-color: seagreen;
+    color: #fff;
+    letter-spacing: 0.2em;
+    border-radius: 5px;
+    font-family: 'robo';
+    border: none;
+    cursor: pointer;
+    padding: 6px 23px;
+    font-size: 16px;
+    border-radius: 5px
 }
